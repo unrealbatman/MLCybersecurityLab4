@@ -7,6 +7,7 @@ This repository contains code for a backdoor detection model using the pruning d
 
    ```bash
    git clone https://github.com/yourusername/MLCybersecLab4.git
+   ```
 
 Output Folder contains saved models  with the filenames:
 model_X=2.h5
